@@ -1,4 +1,4 @@
-# Hack-To-The-Future
+# Microeconomic trends in CRE
 This project explores the relationship between Real GDP, Taxes, and Unemployment across different corporate locations. The analysis includes various visualizations to highlight trends, correlations, and insights, including:
 
 3 Heatmaps to represent the geographic distribution and correlation of Real GDP, Taxes, and Unemployment.
